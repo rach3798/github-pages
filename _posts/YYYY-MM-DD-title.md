@@ -1,5 +1,5 @@
 ---
-title: "My first blog"
+title: "Welcome to my blog"
 date: 2022-10-16
-dfaghsjkdlfkjhvbasnmdfghjk,l.
+description: This is my first blog
 ---
